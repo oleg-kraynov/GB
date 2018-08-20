@@ -1,7 +1,7 @@
 /*  Java Level 1. Lesson 3. HomeWork 3.
 
     @autor Kraynov Oleg
-    @version 19.08.2018
+    @version 20.08.2018
  */
 import java.util.Arrays;
 import java.util.Random;
